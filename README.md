@@ -1,4 +1,4 @@
-# Redux Custom Blog
+# Redux todo
 
 A modern blog application built with React and Redux Toolkit for efficient state management. Create, read, and manage blog posts with a clean, responsive interface.
 
